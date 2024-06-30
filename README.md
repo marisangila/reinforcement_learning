@@ -23,3 +23,6 @@ https://people.brunel.ac.uk/~mastjjb/jeb/orlib/mknapinfo.html
 https://github.com/jonasska/Dynamic-MKP-Datasets-Visualization/
 
 https://github.com/DevSlem/multiple-knapsack
+
+
+https://people.sc.fsu.edu/~jburkardt/datasets/knapsack_01/knapsack_01.html
