@@ -1,0 +1,1 @@
+Average Max Value of Last 30 Epochs: 2567707.0
