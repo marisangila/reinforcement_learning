@@ -18,3 +18,8 @@ https://github.com/DevSlem/multiple-knapsack?tab=readme-ov-file#methods
 https://seer.upf.br/index.php/rbca/article/view/6601/4490
 
 https://people.brunel.ac.uk/~mastjjb/jeb/orlib/mknapinfo.html
+
+
+https://github.com/jonasska/Dynamic-MKP-Datasets-Visualization/
+
+https://github.com/DevSlem/multiple-knapsack
